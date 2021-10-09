@@ -1,1 +1,1 @@
-# Degree-certification
+# 基于区块链的学位学历认证系统
